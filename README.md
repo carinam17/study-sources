@@ -1,4 +1,4 @@
-## ReadMe
+## Description
 
 
 This is a collection of study methods and resources designed to improve study outcomes. 
@@ -16,7 +16,13 @@ Set a *timeframe* to complete the goal.
 
 ### Flash Cards
 
-Flash are a portable way to 
+Flash are a portable way to review information frequently. 
+
+Effective flashcards are:
+
+- 
+
+
 
 ### Cloze Deletion
 
@@ -99,6 +105,20 @@ Review Process:
 ## Creating Framework of Questions
 
 
+## User S.M.A.R.T. Goals
+
+
+Goals are useful when the are specific enough to actually reach. 
+
+**Specific:** What exactly do I need to do?
+
+**Measurable:** How do I know I am achieving this goal?
+
+**Actionable** What steps will I take to achieve this goal?
+
+**Reasonable** Do I have everything I need to reach this goal?
+
+**Time Bound** How long should this goal take to achieve?
 
 
 
