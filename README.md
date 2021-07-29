@@ -9,10 +9,17 @@ There is particular emphasis on learning technical topics and skills.
 
 
 Start each study session with a *specific* goal. 
+
 Create a way to *measure* your progress. 
+
 Ensure the goal is *reasonable*.
+
 Set a *timeframe* to complete the goal. 
 
+
+## Study Aids 
+
+Study aids are tools to promote comprehension and memorization. 
 
 ### Flash Cards
 
@@ -21,10 +28,14 @@ Flash are a portable way to review information frequently.
 Effective flashcards are:
 
 - 
+### Interactive flash cards
+
+Flashcard software can create several decks 
 
 
 
-### Cloze Deletion
+
+### Cloze Deletion (fill in the blank)
 
 
 Organize the information as a fill in the [blank]. 
@@ -44,7 +55,7 @@ Further apply *spaced repetition* principles to remember the information.
 
 ### Know the important verbs
 
-Describing cybersecurity processes features important verbs and terms. M
+Describing cybersecurity processes features important verbs and terms.
 
 Make your own list and update it as needed. 
 
@@ -103,6 +114,13 @@ Review Process:
 
 
 ## Creating Framework of Questions
+
+
+## Creating Guides to Learning Skills
+
+Skills are obtained through repetition and practice. 
+
+
 
 
 ## User S.M.A.R.T. Goals
